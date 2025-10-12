@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Abdullah from Egypt<br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Cloud Computing Services</p>
+<p align="left">I'm Mohamed Abdullah from Egypt<br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Cloud Computing Services<br>- 📃 Connect with me on <a href="https://drive.google.com/file/d/1gFfLsO6MTZ31m_G4hJ6mHjQ-5ocQ49tz/view?usp=sharing">my CV</a></p>
 
 ###
 
